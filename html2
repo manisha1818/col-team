@@ -1,0 +1,20 @@
+
+<html>
+<head>
+    <title>first project</title>
+    <style>
+        h1 {
+            color: green;
+            text-decoration: underline;
+        }
+        p {
+            color: purple;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h1>front end application</h1>
+    <p>using html css java script python flask</p>
+</body>
+</html>
